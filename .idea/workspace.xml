@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7c4507f-a611-4791-88bc-5c59ad40a349" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Boys in a sport class/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Boys in a sport class/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Boys in a sport class/out/" />
+    <ignored path="$PROJECT_DIR$/Readability Score/task/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Readability Score/task/build/" />
+    <ignored path="$PROJECT_DIR$/Readability Score/task/out/" />
+    <ignored path="$PROJECT_DIR$/util/.gradle/" />
+    <ignored path="$PROJECT_DIR$/util/build/" />
+    <ignored path="$PROJECT_DIR$/util/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Distance/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Distance/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Distance/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Find X/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Find X/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Find X/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Area of a circle/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Area of a circle/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Area of a circle/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Adding values/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Adding values/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Adding values/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Get first and last elements/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Get first and last elements/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Get first and last elements/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Application as a class/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Application as a class/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Application as a class/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Convert to bytes/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Convert to bytes/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Convert to bytes/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Reverse input text/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Reverse input text/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Reverse input text/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Count words/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Count words/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Count words/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Parameters and their values/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Parameters and their values/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Parameters and their values/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Basic calculator/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Basic calculator/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Basic calculator/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Advanced calculator/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Advanced calculator/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Advanced calculator/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Fix the program/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Fix the program/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Fix the program/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Fix the program (1)/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Fix the program (1)/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Fix the program (1)/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Fix the program (2)/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Fix the program (2)/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Fix the program (2)/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Classes for Hospital/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Classes for Hospital/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Classes for Hospital/out/" />
+    <ignored path="$PROJECT_DIR$/Problems/Accounts/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Problems/Accounts/build/" />
+    <ignored path="$PROJECT_DIR$/Problems/Accounts/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Readability_Score$Main__1_.ic" NAME="Main (1) Coverage Results" MODIFIED="1590502374413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>readability.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="180" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Problems/Boys in a sport class/src/Main.java">
+          <provider selected="true" editor-type-id="StudyEditor">
+            <state>
+              <EduEditorState>
+                <MainEditorState relative-caret-position="170">
+                  <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+                </MainEditorState>
+              </EduEditorState>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Problems/Boys in a sport class/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Distance/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Find X/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Area of a circle/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Adding values/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Get first and last elements/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Application as a class/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Convert to bytes/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Reverse input text/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Count words/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Parameters and their values/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Basic calculator/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Advanced calculator/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Fix the program/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Fix the program (1)/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Fix the program (2)/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Classes for Hospital/src/Main.java" />
+        <option value="$PROJECT_DIR$/Problems/Accounts/src/Main.java" />
+        <option value="$PROJECT_DIR$/Readability Score/task/src/readability/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1928" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Course" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Course">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Readability_Score" type="a264ea2a:RootNode" />
+              <item name="Readability Score" type="ed842865:CourseNode" />
+            </path>
+            <path>
+              <item name="Readability_Score" type="a264ea2a:RootNode" />
+              <item name="Readability Score" type="ed842865:CourseNode" />
+              <item name="src" type="a27419f0:FrameworkLessonNode" />
+            </path>
+            <path>
+              <item name="Readability_Score" type="a264ea2a:RootNode" />
+              <item name="Readability Score" type="ed842865:CourseNode" />
+              <item name="src" type="a27419f0:FrameworkLessonNode" />
+              <item name="readability" type="61faebc3:DirectoryNode" />
+            </path>
+            <path>
+              <item name="Readability_Score" type="a264ea2a:RootNode" />
+              <item name="Readability Score" type="ed842865:CourseNode" />
+              <item name="Problems" type="d53b8fed:LessonNode" />
+            </path>
+            <path>
+              <item name="Readability_Score" type="a264ea2a:RootNode" />
+              <item name="Readability Score" type="ed842865:CourseNode" />
+              <item name="Problems" type="d53b8fed:LessonNode" />
+              <item name="src" type="4928525d:TaskNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590504035023" />
+    <property name="last.edited.regexp" value="  " />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="readability.Main" />
+      <module name="Readability_Score-task_main" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;F:\Readability Score\Readability Score\task\src\readability\file.txt&quot;" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="readability.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Problems-Count_words_main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7c4507f-a611-4791-88bc-5c59ad40a349" name="Default Changelist" comment="" />
+      <created>1590429307757</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590429307757</updated>
+      <workItem from="1590429309980" duration="3421000" />
+      <workItem from="1590477664484" duration="4773000" />
+      <workItem from="1590485014219" duration="1322000" />
+      <workItem from="1590488250486" duration="10556000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Tests_in_'Readability_Score-task_test' - 2020.05.26 at 15h 33m 38s.xml">
+      <configuration name="Tests in 'Readability_Score-task_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Readability_Score-task_test' - 2020.05.26 at 15h 36m 42s.xml">
+      <configuration name="Tests in 'Readability_Score-task_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Readability_Score-task_test' - 2020.05.26 at 15h 38m 04s.xml">
+      <configuration name="Tests in 'Readability_Score-task_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Readability_Score-task_test' - 2020.05.26 at 15h 59m 38s.xml">
+      <configuration name="Tests in 'Readability_Score-task_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Readability_Score-task_test' - 2020.05.26 at 16h 01m 34s.xml">
+      <configuration name="Tests in 'Readability_Score-task_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Readability_Score-task_test' - 2020.05.26 at 16h 05m 35s.xml">
+      <configuration name="Tests in 'Readability_Score-task_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Readability_Score-task_test' - 2020.05.26 at 16h 06m 00s.xml">
+      <configuration name="Tests in 'Readability_Score-task_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Readability_Score-task_test' - 2020.05.26 at 16h 29m 55s.xml">
+      <configuration name="Tests in 'Readability_Score-task_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Readability_Score-task_test' - 2020.05.26 at 16h 31m 14s.xml">
+      <configuration name="Tests in 'Readability_Score-task_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Readability_Score-task_test' - 2020.05.26 at 16h 31m 29s.xml">
+      <configuration name="Tests in 'Readability_Score-task_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="20072000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1928" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1369936" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Designer" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.298027" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997923" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32917964" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="11" weight="0.24506749" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" />
+      <window_info anchor="right" id="Coverage" sideWeight="0.29256967" side_tool="true" weight="0.22228146" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32995737" />
+      <window_info active="true" anchor="right" id="Task" order="4" sideWeight="0.70743036" visible="true" weight="0.32569295" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Key Promoter X" order="7" />
+      <window_info anchor="right" id="Gradle" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
+      <window_info anchor="right" id="Palette&#9;" order="10" />
+      <window_info anchor="right" id="Theme Preview" order="11" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Problems/Distance/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="153">
+              <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Find X/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="187">
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Area of a circle/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Adding values/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="153">
+              <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+              <folding>
+                <element signature="e#585#586#0" expanded="true" />
+                <element signature="e#626#627#0" expanded="true" />
+              </folding>
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Get first and last elements/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="272">
+              <caret line="16" column="55" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Application as a class/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="136">
+              <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Convert to bytes/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Reverse input text/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="340">
+              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Count words/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="221">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Parameters and their values/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="119">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Basic calculator/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="306">
+              <caret line="18" column="57" selection-start-line="18" selection-start-column="57" selection-end-line="18" selection-end-column="57" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Advanced calculator/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="527">
+              <caret line="31" column="17" lean-forward="true" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Fix the program/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="170">
+              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Fix the program (1)/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="136">
+              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Fix the program (2)/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="170">
+              <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Classes for Hospital/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="238">
+              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Accounts/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="68">
+              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Readability Score/task/src/readability/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="-768">
+              <caret line="146" column="61" selection-start-line="146" selection-start-column="61" selection-end-line="146" selection-end-column="61" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#printARI#0;class#Main#0" />
+                <element signature="method#calculateIndexScore#0;class#Main#0" />
+                <element signature="method#clIndex#0;class#Main#0" />
+                <element signature="method#countSyllables#0;class#Main#0" />
+              </folding>
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Boys in a sport class/src/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="170">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

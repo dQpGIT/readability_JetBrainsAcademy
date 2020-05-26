@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Problems-Accounts_main" target="11" />
+      <module name="Problems-Accounts_test" target="11" />
+      <module name="Problems-Adding_values_main" target="11" />
+      <module name="Problems-Adding_values_test" target="11" />
+      <module name="Problems-Advanced_calculator_main" target="11" />
+      <module name="Problems-Advanced_calculator_test" target="11" />
+      <module name="Problems-Application_as_a_class_main" target="11" />
+      <module name="Problems-Application_as_a_class_test" target="11" />
+      <module name="Problems-Area_of_a_circle_main" target="11" />
+      <module name="Problems-Area_of_a_circle_test" target="11" />
+      <module name="Problems-Basic_calculator_main" target="11" />
+      <module name="Problems-Basic_calculator_test" target="11" />
+      <module name="Problems-Boys_in_a_sport_class_main" target="11" />
+      <module name="Problems-Boys_in_a_sport_class_test" target="11" />
+      <module name="Problems-Classes_for_Hospital_main" target="11" />
+      <module name="Problems-Classes_for_Hospital_test" target="11" />
+      <module name="Problems-Convert_to_bytes_main" target="11" />
+      <module name="Problems-Convert_to_bytes_test" target="11" />
+      <module name="Problems-Count_words_main" target="11" />
+      <module name="Problems-Count_words_test" target="11" />
+      <module name="Problems-Distance_main" target="11" />
+      <module name="Problems-Distance_test" target="11" />
+      <module name="Problems-Find_X_main" target="11" />
+      <module name="Problems-Find_X_test" target="11" />
+      <module name="Problems-Fix_the_program__1__main" target="11" />
+      <module name="Problems-Fix_the_program__1__test" target="11" />
+      <module name="Problems-Fix_the_program__2__main" target="11" />
+      <module name="Problems-Fix_the_program__2__test" target="11" />
+      <module name="Problems-Fix_the_program_main" target="11" />
+      <module name="Problems-Fix_the_program_test" target="11" />
+      <module name="Problems-Get_first_and_last_elements_main" target="11" />
+      <module name="Problems-Get_first_and_last_elements_test" target="11" />
+      <module name="Problems-Parameters_and_their_values_main" target="11" />
+      <module name="Problems-Parameters_and_their_values_test" target="11" />
+      <module name="Problems-Reverse_input_text_main" target="11" />
+      <module name="Problems-Reverse_input_text_test" target="11" />
+      <module name="Readability_Score-task_main" target="11" />
+      <module name="Readability_Score-task_test" target="11" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
